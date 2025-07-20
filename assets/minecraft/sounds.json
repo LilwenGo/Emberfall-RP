@@ -1,0 +1,106 @@
+{
+    "effect.fairy": {
+        "sounds": [
+            {
+                "name": "emberfall:effect/fairy",
+                "stream": true
+            }
+        ]
+    },
+    "music.gerudo_valley" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/gerudo_valley",
+                "stream": true
+            }
+        ]
+    },
+    "music.goron_city" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/goron_city",
+                "stream": true
+            }
+        ]
+    },
+    "music.great_fairy" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/great_fairy",
+                "stream": true
+            }
+        ]
+    },
+    "music.hyrule_castle" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/hyrule_castle",
+                "stream": true
+            }
+        ]
+    },
+    "music.hyrule_field" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/hyrule_field",
+                "stream": true
+            }
+        ]
+    },
+    "music.kakariko_village" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/kakariko_village",
+                "stream": true
+            }
+        ]
+    },
+    "music.lost_woods" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/lost_woods",
+                "stream": true
+            }
+        ]
+    },
+    "music.main_theme" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/main_theme",
+                "stream": true
+            }
+        ]
+    },
+    "music.market" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/market",
+                "stream": true
+            }
+        ]
+    },
+    "music.shop" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/shop",
+                "stream": true
+            }
+        ]
+    },
+    "music.zelda_lullaby" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/zelda_lullaby",
+                "stream": true
+            }
+        ]
+    },
+    "music.zora_domain" : {
+        "sounds": [
+            {
+                "name": "emberfall:music/zora_domain",
+                "stream": true
+            }
+        ]
+    }
+}
